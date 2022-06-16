@@ -40,8 +40,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - 📷 [Instagram](https://www.instagram.com/laktionof)
 - ✈️ [Telegram](https://www.t.me/laktionof)
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+

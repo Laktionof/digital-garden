@@ -14,9 +14,9 @@ permalink: /
 
 ## Навігація
 - 📰 [[posts|Дописи]]
-- 💬 [Анонімні повідомлення](anon)
-- 📚️ [Книги](books)
-- 🌈 [Психологічні тести](psycho)
+- 💬 [[anon|Анонімні повідомлення]]
+- 📚️ [[books|Книги]]
+- 🌈 [[psycho|Психологічні тести]]
 
 ---
 
@@ -24,15 +24,15 @@ permalink: /
 
 > 📌 **[[Lorem ipsum]]**
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<sub><sub><b>17.04.2022 10:20</b></sub></sub>
+<br><sub><sub><b>17.04.2022 10:20</b></sub></sub>
 
 > 🆕 **[[Dolor sit amet]]**
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<sub><sub><b>17.04.2022 10:20</b></sub></sub>
+<br><sub><sub><b>17.04.2022 10:20</b></sub></sub>
 
 > ⚡️ **[[Consectetur adipiscing elit]]**
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<sub><sub><b>17.04.2022 10:20</b></sub></sub>
+<br><sub><sub><b>17.04.2022 10:20</b></sub></sub>
 
 ---
 

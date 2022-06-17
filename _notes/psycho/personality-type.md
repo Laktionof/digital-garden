@@ -9,7 +9,7 @@ title: Тип особистості
 
 ### ISFJ-T: Захисник
 
-![[assets/personality-type.png]]
+![](assets/personality-type.png)
 
 ### | Загальні риси
 

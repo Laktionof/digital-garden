@@ -8,7 +8,7 @@ title: Мова любові
 
 ## Мої результати
 
-![[love-languages.png]]
+![[assets/love-languages.png]]
 
 Ваша мова любові - **Дії** (100%)
 

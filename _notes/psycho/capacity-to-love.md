@@ -7,7 +7,11 @@ title: Вміння любити
 
 ## Мої результати
 
-![[capacity-to-love.png]]
+<img src="/assets/capacity-to-love.png"/>
+
+![](capacity-to-love.png)
+
+![](assets/capacity-to-love.png)
 
 У вас дуже високий (97%) показник вміння любити
 

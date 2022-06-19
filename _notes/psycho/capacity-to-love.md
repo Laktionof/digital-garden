@@ -1,5 +1,6 @@
 ---
 title: Вміння любити
+permalink: /psycho/capacity-to-love
 ---
 
 ## Пройти тест

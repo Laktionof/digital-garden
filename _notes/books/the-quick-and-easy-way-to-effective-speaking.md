@@ -1,5 +1,6 @@
 ---
 title: Повний курс навчання прийомам спілкування (Дейл Карнегі)
+permalink: /books/the-quick-and-easy-way-to-effective-speaking
 ---
 
 **Оцінка:** ⭐️⭐️⭐️⭐️⭐️

@@ -1,5 +1,6 @@
 ---
 title: Моральні якості
+permalink: /psycho/moral-vignettes
 ---
 
 ## Пройти тест

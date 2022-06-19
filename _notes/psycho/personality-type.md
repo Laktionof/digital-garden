@@ -1,5 +1,6 @@
 ---
 title: Тип особистості
+permalink: /psycho/personality-type
 ---
 ## Пройти тест
 Можна [туть](https://www.16personalities.com/uk).

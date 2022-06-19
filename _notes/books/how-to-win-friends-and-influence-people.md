@@ -1,5 +1,6 @@
 ---
 title: Як завойовувати друзів та впливати на людей (Дейл Карнегі)
+permalink: /books/how-to-win-friends-and-influence-people
 ---
 
 **Оцінка:** ⭐️⭐️⭐️⭐️⭐️

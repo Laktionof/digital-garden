@@ -1,5 +1,6 @@
 ---
 title: Мова любові
+permalink: /psycho/love-languages
 ---
 
 ## Пройти тест

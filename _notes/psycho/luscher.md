@@ -1,5 +1,6 @@
 ---
 title: Повноколірний тест Люшера
+permalink: /psycho/luscher
 ---
 
 ## Пройти тест

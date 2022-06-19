@@ -7,7 +7,7 @@ permalink: /
 
 # Привіт! 🌱
 
-Мене звуть Ілля, вітаю в своєму саді :з. Я тут транслюю думки і просто пишу всяке. Сподіваюсь, вам сподобається ^^
+Мене звуть Ілля, вітаю вас в своєму саді :з. Я тут транслюю думки і просто пишу всяке. Сподіваюсь, вам сподобається ^^
 
 ---
 
@@ -21,17 +21,9 @@ permalink: /
 
 ## Свіженьке
 
-> 📌 **[[Lorem ipsum]]**
+> 📌 **[[20-things|20 речей, які я зрозумів за 20 років]]**
 > 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<p></p>
-> 🆕 **[[Dolor sit amet]]**
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<p></p>
-> ⚡️ **[[Consectetur adipiscing elit]]**
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> Ділюсь з вами своїм життєвим досвідом.
 
 
 

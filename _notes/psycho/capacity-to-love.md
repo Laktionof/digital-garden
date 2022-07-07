@@ -8,7 +8,7 @@ permalink: /psycho/capacity-to-love
 
 ## Мої результати
 
-<img src="/assets/capacity-to-love.png"/>
+![[assets/capacity-to-love.png]]
 
 У вас дуже високий (97%) показник вміння любити
 

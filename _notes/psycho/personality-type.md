@@ -10,7 +10,7 @@ permalink: /psycho/personality-type
 
 ### ISFJ-T: Захисник
 
-![](assets/personality-type.png)
+![](personality-type.png)
 
 ### | Загальні риси
 

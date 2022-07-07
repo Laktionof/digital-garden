@@ -9,7 +9,7 @@ permalink: /psycho/moral-vignettes
 
 ## Мої результати
 
-![](assets/moral-vignettes.png)
+![](moral-vignettes.png)
 
 Найсильніше у Вас виражені – **Турбота** та **Авторитет**.
 Ваші цінності найближче до цінностей консерватизму.
